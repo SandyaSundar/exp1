@@ -39,6 +39,9 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 5.	For different input combinations generate the timing diagram.
 
 **Program:**
+
+
+
 <img width="604" height="507" alt="Screenshot 2025-11-13 144231" src="https://github.com/user-attachments/assets/b105c57d-d0a0-4266-b161-5eaf41d1beac" />
 
 Developed by: Sandya S      Register Number: 25017264
