@@ -42,9 +42,11 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 Program for logic gates and verify its truth table in quartus using Verilog programming
 Developed by: RegisterNumber
 
-**Logic symbol & Truthtable:**
+**Logic symbol & Truthtable**
 
 **RTL realisation Output:**
+
+**RTL:**
 
 **Result:**
 Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
