@@ -39,14 +39,19 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 5.	For different input combinations generate the timing diagram.
 
 **Program:**
-Program for logic gates and verify its truth table in quartus using Verilog programming
-Developed by: RegisterNumber
+<img width="604" height="507" alt="Screenshot 2025-11-13 144231" src="https://github.com/user-attachments/assets/b105c57d-d0a0-4266-b161-5eaf41d1beac" />
+
+Developed by: Sandya S      Register Number: 25017264
 
 **Logic symbol & Truthtable**
 
 **RTL realisation Output:**
 
+<img width="1018" height="691" alt="Screenshot 2025-11-17 213857" src="https://github.com/user-attachments/assets/eafdae56-5d4f-4618-857a-2de579e90cdd" />
+
 **RTL:**
+
+<img width="1826" height="823" alt="Screenshot 2025-11-17 214025" src="https://github.com/user-attachments/assets/32fd95e4-7f7b-4593-b942-4b244fe77d7c" />
 
 **Result:**
 Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
